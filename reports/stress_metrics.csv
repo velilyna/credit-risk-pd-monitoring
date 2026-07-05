@@ -1,0 +1,2 @@
+champion,reference_mean_pd_test,stress_mean_pd,score_psi,reference_share_above_threshold,stress_share_above_threshold
+random_forest,0.4103779654606758,0.5567156281936679,0.8496399728685947,0.7108333333333333,0.9233

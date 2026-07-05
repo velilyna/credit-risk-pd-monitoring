@@ -1,0 +1,19 @@
+{
+  "champion": "random_forest",
+  "champion_threshold": 0.26242424242424245,
+  "fn_cost": 100000.0,
+  "fp_cost": 10000.0,
+  "score_psi": 0.8496399728685947,
+  "train_size": 18000,
+  "validation_size": 6000,
+  "test_size": 6000,
+  "models": [
+    "logistic_regression",
+    "random_forest",
+    "hist_gradient_boosting",
+    "lightgbm",
+    "random_forest_calibrated_sigmoid",
+    "hist_gradient_boosting_calibrated_sigmoid",
+    "lightgbm_calibrated_sigmoid"
+  ]
+}
